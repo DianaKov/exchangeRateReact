@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+.currency-table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  .currency-table th {
+    background-color: #eee;
+    color: #333;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  .currency-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }  
